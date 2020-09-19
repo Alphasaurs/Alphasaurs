@@ -1,6 +1,3 @@
-## Hello Welcome! <img src="https://raw.githubusercontent.com/alphasaurs/alphasaurs/master/wave.gif" width="30px">
-
-
 <h1 align="center"><img src="https://raw.githubusercontent.com/alphasaurs/alphasaurs/master/wave.gif" width="30px">Hello Welcome! </h1>
 
 <p align="center">
