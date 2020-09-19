@@ -6,12 +6,20 @@
 	<a href="https://www.linkedin.com/in/alphasaurs"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=alphasaurs&theme=buefy&show_icons=buefy)
+<div align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=alphasaurs&theme=buefy&show_icons=buefy">
+<img src=https://github-readme-stats.vercel.app/api?username=alphasaurs&theme=buefy&show_icons=buefy />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alphasaurs&layout=compact)">
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=alphasaurs&layout=compact) />
+</a>
+</div>  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphasaurs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-I am a 4th-year UnderGraduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+
+
+
 
 <p align="center">
 <a href="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Alphasaurs/"><img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Alphasaurs/" alt="GitHub"></a>
