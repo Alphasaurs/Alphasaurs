@@ -16,7 +16,7 @@
 <img src=https://github-readme-stats.vercel.app/api?username=alphasaurs&theme=buefy&show_icons=buefy />
 </a>
 <a href="https://github.com/alphasaurs/github-readme-stats">
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=alphasaurs&layout=compact) />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=alphasaurs&layout=compact />
 </a>
 </div>  
 
