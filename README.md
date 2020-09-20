@@ -1,9 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/alphasaurs/alphasaurs/master/wave.gif" width="30px">Hello Welcome! </h1>
-<p>
-</p>
-<p>
-</p>
-
+<br />
+<br />
 <p align="center">
 	<a href="http://codeforces.com/profile/alphasaurs"><img src="https://img.shields.io/badge/Codeforces--blue?style=plastic&logo=appveyor"></a>
 	<a href="https://www.hackerrank.com/Alphasaurs"><img src="https://img.shields.io/badge/Hackerrank--red?style=plastic&logo=appveyor"></a>
@@ -15,6 +12,7 @@
 </p>
 
 
+
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=alphasaurs&theme=buefy&show_icons=buefy">
 <img src=https://github-readme-stats.vercel.app/api?username=alphasaurs&theme=buefy&show_icons=buefy />
@@ -23,18 +21,8 @@
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=alphasaurs&layout=compact />
 </a>
 </div>  
-<p>
-</p>
-<p>
-</p>
-<p>
-</p>
-<p>
-</p>
-<p>
-</p>
-<p>
-</p>
+<br />
+<br />
 
 <p align="center">
 <a href="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Alphasaurs/"><img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Alphasaurs/" alt="GitHub"></a>
