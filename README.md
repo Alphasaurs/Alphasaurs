@@ -1,10 +1,15 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/alphasaurs/alphasaurs/master/wave.gif" width="30px">Hello Welcome! </h1>
 
 <p align="center">
-<a href="https://github.com/alphasaurs"><img src="https://img.shields.io/github/followers/alphasaurs.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/alphasaurs"><img src="https://img.shields.io/twitter/follow/alphasaurs?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/alphasaurs"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="http://codeforces.com/profile/alphasaurs"><img src="https://img.shields.io/badge/Codeforces--blue?style=plastic&logo=appveyor"></a>
+	<a href="https://www.hackerrank.com/Alphasaurs"><img src="https://img.shields.io/badge/Hackerrank--red?style=plastic&logo=appveyor"></a>
+	<a href="https://in.linkedin.com/in/alphasaurs"><img src="https://img.shields.io/badge/Linkedin--blue?style=plastic&logo=appveyor"></a>
+	<a href="mailto:hello@alphasaurs.com"><img src="https://img.shields.io/badge/Gmail--lightgrey?style=plastic&logo=appveyor"></a>
+	<a href="https://leetcode.com/alphasaurs/"><img src="https://img.shields.io/badge/Leetcode--yellow?style=plastic&logo=appveyor"></a>
+	<a href="https://twitter.com/Alphasaurs"><img src="https://img.shields.io/badge/Twitter--blue?style=plastic&logo=appveyor"></a>
+	<a href="https://www.codechef.com/users/alphasaurs"><img src="https://img.shields.io/badge/Codechef--orange?style=plastic&logo=appveyor"></a>
 </p>
+
 
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=alphasaurs&theme=buefy&show_icons=buefy">
