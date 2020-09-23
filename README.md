@@ -24,7 +24,6 @@
 <br />
 
 <p align="center">
-<a href="https://visitor-badge.glitch.me/badge?page_id=alphasaurs/"><img src="https://visitor-badge.glitch.me/badge?page_id=alphasaurs/" alt="GitHub"></a>
+<a href="https://github.com/Alphasaurs/"><img src="https://visitor-badge.glitch.me/badge?page_id=alphasaurs.alphasaurs/" alt="GitHub"></a>
 </p>
-
 
