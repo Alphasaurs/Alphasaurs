@@ -8,7 +8,7 @@
 	<a href="mailto:hello@alphasaurs.com"><img src="https://img.shields.io/badge/Gmail--lightgrey?style=plastic&logo=appveyor"></a>
 	<a href="https://leetcode.com/alphasaurs/"><img src="https://img.shields.io/badge/Leetcode--yellow?style=plastic&logo=appveyor"></a>
 	<a href="https://twitter.com/Alphasaurs"><img src="https://img.shields.io/badge/Twitter--blue?style=plastic&logo=appveyor"></a>
-	<a href="https://www.codechef.com/users/alphasaurs"><img src="https://img.shields.io/badge/Codechef--orange?style=plastic&logo=appveyor"></a>
+	<a href="https://bugcrowd.com/alphasaurs"><img src="https://img.shields.io/badge/Bugcrowd--orange?style=plastic&logo=appveyor"></a>
 </p>
 
 <br />
