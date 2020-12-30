@@ -23,6 +23,50 @@
 </div>  
 <br />
 
+
+<div align="center">
+	<h3>Repositories</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Language</th>
+	    <th>Tech</th>
+            <th colspan=3>Repository</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4>JavaScript</td>
+            <td rowspan=2>ReactJs</td>
+            <td colspan=3>Ashfire->real time chat application</td>   
+        </tr>
+	 <tr>
+	      <td colspan=3>SnowFlake->job portal</td>	    
+	 </tr
+         <tr>
+            <td rowspan=2>NodeJs</td>
+            <td colspan=3>Halfmoon-> </td> 
+        </tr>
+	 <tr>
+	      <td colspan=3>Halfbay->blog api</td>	    
+	 </tr
+          <tr>
+            <td rowspan=4>Java</td>
+            <td rowspan=2>Android</td>
+            <td colspan=3>Mystlake-></td>   
+        </tr>
+	 <tr>
+	      <td colspan=3>Mystfar-></td>	    
+	 </tr
+         <tr>
+            <td rowspan=1>Algorithms</td>
+            <td colspan=3>Dalamoon->data structures, algorithms</td> 
+        </tr>
+	
+	</tbody>
+</table>
+</div>
+
 <p align="center">
 <a href="https://github.com/Alphasaurs/"><img src="https://visitor-badge.glitch.me/badge?page_id=alphasaurs.alphasaurs/" alt="GitHub"></a>
 </p>
