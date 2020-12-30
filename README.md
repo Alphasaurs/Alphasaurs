@@ -25,7 +25,7 @@
 
 
 <div align="center">
-	<h3>Repositories</h3>
+	<h3>Tech linked with Repositories</h3>
 <table>
     <thead>
         <tr>
@@ -62,7 +62,6 @@
             <td rowspan=1>Algorithms</td>
             <td colspan=3>Dalamoon->data structures, algorithms</td> 
         </tr>
-	
 	</tbody>
 </table>
 </div>
