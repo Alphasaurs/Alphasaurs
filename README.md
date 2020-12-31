@@ -36,7 +36,7 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4>JavaScript</td>
+            <td rowspan=5>JavaScript</td>
             <td rowspan=2>ReactJs</td>
             <td colspan=3>Ashfire->real time chat application</td>   
         </tr>
@@ -50,14 +50,15 @@
 	 <tr>
 	      <td colspan=3>Halfbay->blog api</td>	    
 	 </tr
+	 <tr>
+        	  <td >ReactNative</td>
+                    <td colspan=3>Mystfar->virtual private network</td>	 
+	 </tr
           <tr>
-            <td rowspan=4>Java</td>
-            <td rowspan=2>Android</td>
+            <td rowspan=3>Java</td>
+            <td rowspan=1>Android</td>
             <td colspan=3>Mystlake-></td>   
         </tr>
-	 <tr>
-	      <td colspan=3>Mystfar->virtual private network</td>	    
-	 </tr
          <tr>
             <td rowspan=1>Algorithms</td>
             <td colspan=3>Dalamoon->data structures, algorithms</td> 
