@@ -56,7 +56,7 @@
             <td colspan=3>Mystlake-></td>   
         </tr>
 	 <tr>
-	      <td colspan=3>Mystfar-></td>	    
+	      <td colspan=3>Mystfar->virtual private network</td>	    
 	 </tr
          <tr>
             <td rowspan=1>Algorithms</td>
