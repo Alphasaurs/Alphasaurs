@@ -36,7 +36,7 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=5>JavaScript</td>
+            <td rowspan=6>JavaScript</td>
             <td rowspan=2>ReactJs</td>
             <td colspan=3>Ashfire->real time chat application</td>   
         </tr>
@@ -44,11 +44,14 @@
 	      <td colspan=3>SnowFlake->job portal</td>	    
 	 </tr
          <tr>
-            <td rowspan=2>NodeJs</td>
+            <td rowspan=3>NodeJs</td>
             <td colspan=3>Halfmoon-> </td> 
         </tr>
 	 <tr>
 	      <td colspan=3>Halfbay->blog api</td>	    
+	 </tr
+	 <tr>
+	      <td colspan=3>Halfcall->blog api</td>	    
 	 </tr
 	 <tr>
         	  <td >ReactNative</td>
