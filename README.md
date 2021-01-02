@@ -51,7 +51,7 @@
 	      <td colspan=3>Halfbay->blog api</td>	    
 	 </tr
 	 <tr>
-	      <td colspan=3>Halfcall->blog api</td>	    
+	      <td colspan=3>Halfcall->pause resume stop</td>	    
 	 </tr
 	 <tr>
         	  <td >ReactNative</td>
