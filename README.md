@@ -25,7 +25,7 @@
 
 
 <div align="center">
-	<h3>Tech linked with Repositories</h3>
+	<h3>Projects linked with Repositories</h3>
 <table>
     <thead>
         <tr>
