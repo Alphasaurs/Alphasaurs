@@ -29,12 +29,29 @@
 <table>
     <thead>
         <tr>
-            <th>Language</th>
-	    <th>Tech</th>
-            <th colspan=3>Repository</th>
+            <th colspan=2></th>
+	    <th >Frameworks/Others</th>
+            <th colspan=2>Repository</th>
         </tr>
     </thead>
     <tbody>
+	 <tr>
+            <td rowspan=13>Language</td>
+        </tr>
+	 <tr>
+            <td rowspan=1>Go</td>
+	    <td></td>
+	     <td></td>
+        </tr>
+	 <tr>
+            <td rowspan=2>Java</td>
+            <td rowspan=1>Android</td>
+            <td colspan=3>Mystlake-></td>   
+        </tr>
+         <tr>
+            <td rowspan=1>Algorithms</td>
+            <td colspan=3>Dalamoon->data structures algorithms</td> 
+        </tr>
         <tr>
             <td rowspan=6>JavaScript</td>
             <td rowspan=2>ReactJs</td>
@@ -57,24 +74,48 @@
         	  <td >ReactNative</td>
                     <td colspan=3>Mystfar->virtual private network</td>	 
 	   </tr>
-          <tr>
-            <td rowspan=2>Java</td>
-            <td rowspan=1>Android</td>
-            <td colspan=3>Mystlake-></td>   
-        </tr>
-         <tr>
-            <td rowspan=1>Algorithms</td>
-            <td colspan=3>Dalamoon->data structures algorithms</td> 
-        </tr>
-	 <tr>
-            <td rowspan=2>Database</td>
-            <td >Redis</td> 
-	   <td>Domered->fetch and redis cache</td>	
+	  <tr>
+            <td rowspan=1>Python</td>
+	    <td></td>
+	     <td></td>
         </tr>
 	  <tr>
+            <td rowspan=1>Rust</td>
+	    <td></td>
+	     <td></td>
+        </tr>
+	 <tr>
+            <td rowspan=1>TypeScript</td>
+	    <td></td>
+	     <td></td>
+        </tr>
+	 <tr>
+            <td rowspan=6>Database</td>
+	    <td>Elasticsearch</td>
+	    <td></td>
+        </tr>
+	 <tr>
+              <td>Firebase</td>
+	      <td></td>
+	  </tr>
+	  <tr>
+              <td>MongoDB</td>
+		<td></td>
+	  </tr>
+	    <tr>
             <td>Mysql</td>
+	    <td></td>
 	   </tr>
-	</tbody>
+	   <tr>
+	      <td> PostgreSQL </td>
+	       <td></td>
+	   </tr>
+	    <tr>
+	       <td >Redis</td> 
+		<td></td>
+	       <td>Domered->fetch and redis cache</td>	
+	   </tr>
+	  </tbody>
 </table>
 </div>
 
