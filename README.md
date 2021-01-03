@@ -54,31 +54,34 @@
         </tr>
         <tr>
             <td rowspan=6>JavaScript</td>
+            <td rowspan=3>NodeJs</td>
+            <td colspan=3>Halfmoon-> </td> 
+	 <tr>
+	      <td colspan=3>Halfbay->blog api</td>	    
+	 </tr>
+	 <tr>
+	     <td colspan=3>Halfcall->pause resume stop</td>	    
+	 </tr>
+	 <tr>
             <td rowspan=2>ReactJs</td>
             <td colspan=3>Ashfire->real time chat application</td>   
-        </tr>
+         </tr>
 	 <tr>
 	      <td colspan=3>SnowFlake->job portal</td>	    
 	 </tr>
-         <tr>
-            <td rowspan=3>NodeJs</td>
-            <td colspan=3>Halfmoon-> </td> 
-        </tr>
-	 <tr>
-	      <td colspan=3>Halfbay->blog api</td>	    
-	  </tr>
-	 <tr>
-	      <td colspan=3>Halfcall->pause resume stop</td>	    
-	   </tr>
 	 <tr>
         	  <td >ReactNative</td>
                     <td colspan=3>Mystfar->virtual private network</td>	 
 	   </tr>
 	  <tr>
-            <td rowspan=1>Python</td>
-	    <td></td>
+            <td rowspan=2>Python</td>
+	    <td>Django</td>
 	     <td></td>
         </tr>
+	  <tr>
+            <td>Flask</td>
+	     <td>Fleetland</td>
+	  </tr>
 	  <tr>
             <td rowspan=1>Rust</td>
 	    <td></td>
