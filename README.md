@@ -36,10 +36,10 @@
     </thead>
     <tbody>
 	 <tr>
-            <td rowspan=13>Language</td>
+            <td rowspan=15>Language</td>
         </tr>
 	 <tr>
-            <td rowspan=1>Go</td>
+            <td rowspan=1>Go*</td>
 	    <td></td>
 	     <td></td>
         </tr>
@@ -53,8 +53,8 @@
             <td colspan=3>Dalamoon->data structures algorithms</td> 
         </tr>
         <tr>
-            <td rowspan=6>JavaScript</td>
-            <td rowspan=3>NodeJs</td>
+            <td rowspan=6>JavaScript*</td>
+            <td rowspan=3>NodeJs*</td>
             <td colspan=3>Halfmoon-> </td> 
 	 <tr>
 	      <td colspan=3>Halfbay->blog api</td>	    
@@ -93,6 +93,16 @@
 	     <td></td>
         </tr>
 	 <tr>
+            <td rowspan=1>ShellScript*</td>
+	    <td></td>
+	    <td></td>
+        </tr>
+	  <tr>
+            <td ></td>
+	    <td></td>
+	     <td></td>
+        </tr>
+	 <tr>
             <td rowspan=6>Database</td>
 	    <td>Elasticsearch</td>
 	    <td></td>
@@ -102,21 +112,45 @@
 	      <td></td>
 	  </tr>
 	  <tr>
-              <td>MongoDB</td>
+              <td>MongoDB*</td>
 		<td></td>
+	       <td></td>
 	  </tr>
 	    <tr>
-            <td>Mysql</td>
+            <td>Mysql*</td>
+	    <td></td>
 	    <td></td>
 	   </tr>
 	   <tr>
-	      <td> PostgreSQL </td>
+	      <td> PostgreSQL*</td>
 	       <td></td>
+		<td></td>
 	   </tr>
 	    <tr>
 	       <td >Redis</td> 
 		<td></td>
 	       <td>Domered->fetch and redis cache</td>	
+	   </tr>
+	   <tr>
+             <td rowspan=6>Others</td>
+	     <td>Docker*</td>
+	     <td></td>
+	     <td></td>
+           </tr>
+	   <tr>
+	      <td>Grafana*</td>
+	       <td></td>
+	       <td></td>
+	   </tr>
+	    <tr>
+	      <td>Prometheus*</td>
+	       <td></td>
+	       <td></td>
+	   </tr>
+	     <tr>
+	      <td>Selenium*</td>
+	       <td></td>
+	       <td></td>
 	   </tr>
 	  </tbody>
 </table>
