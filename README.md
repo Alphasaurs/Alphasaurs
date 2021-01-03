@@ -42,30 +42,38 @@
         </tr>
 	 <tr>
 	      <td colspan=3>SnowFlake->job portal</td>	    
-	 </tr
+	 </tr>
          <tr>
             <td rowspan=3>NodeJs</td>
             <td colspan=3>Halfmoon-> </td> 
         </tr>
 	 <tr>
 	      <td colspan=3>Halfbay->blog api</td>	    
-	 </tr
+	  </tr>
 	 <tr>
 	      <td colspan=3>Halfcall->pause resume stop</td>	    
-	 </tr
+	   </tr>
 	 <tr>
         	  <td >ReactNative</td>
                     <td colspan=3>Mystfar->virtual private network</td>	 
-	 </tr
+	   </tr>
           <tr>
-            <td rowspan=3>Java</td>
+            <td rowspan=2>Java</td>
             <td rowspan=1>Android</td>
             <td colspan=3>Mystlake-></td>   
         </tr>
          <tr>
             <td rowspan=1>Algorithms</td>
-            <td colspan=3>Dalamoon->data structures, algorithms</td> 
+            <td colspan=3>Dalamoon->data structures algorithms</td> 
         </tr>
+	 <tr>
+            <td rowspan=2>Database</td>
+            <td >Redis</td> 
+	   <td>Domered->fetch and redis cache</td>	
+        </tr>
+	  <tr>
+            <td>Mysql</td>
+	   </tr>
 	</tbody>
 </table>
 </div>
