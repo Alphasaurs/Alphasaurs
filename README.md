@@ -101,6 +101,7 @@
             <td ></td>
 	    <td></td>
 	     <td></td>
+	     <td></td>
         </tr>
 	 <tr>
             <td rowspan=6>Database</td>
@@ -131,6 +132,12 @@
 		<td></td>
 	       <td>Domered->fetch and redis cache</td>	
 	   </tr>
+	    <tr>
+		    <td></td>
+		     <td></td>
+		     <td></td>
+		     <td></td>
+	    </tr>
 	   <tr>
              <td rowspan=6>Others</td>
 	     <td>Docker*</td>
