@@ -41,7 +41,7 @@
 	 <tr>
             <td rowspan=1>Go*</td>
 	    <td></td>
-	     <td></td>
+	     <td>Halfpool->crud rest api</td>
         </tr>
 	 <tr>
             <td rowspan=2>Java</td>
