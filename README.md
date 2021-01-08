@@ -54,7 +54,7 @@
         </tr>
         <tr>
             <td rowspan=6>JavaScript*</td>
-            <td rowspan=3>NodeJs*</td>
+            <td rowspan=5>NodeJs*</td>
             <td colspan=3>Halfbay->blog api</td>	    
 	 </tr>
 	 <tr>
