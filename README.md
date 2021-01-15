@@ -36,7 +36,7 @@
     </thead>
     <tbody>
 	 <tr>
-            <td rowspan=15>Language</td>
+            <td rowspan=20>Language</td>
         </tr>
 	 <tr>
             <td rowspan=1>Go*</td>
@@ -53,7 +53,7 @@
             <td colspan=3>Dalamoon->data structures algorithms</td> 
         </tr>
         <tr>
-            <td rowspan=6>JavaScript*</td>
+            <td rowspan=9>JavaScript*</td>
             <td rowspan=5>NodeJs*</td>
             <td colspan=3>Halfbay->blog api</td>	    
 	 </tr>
@@ -86,6 +86,11 @@
             <td>Flask</td>
 	     <td>Fleetland</td>
 	  </tr>
+	  <tr>
+            <td rowspan=1>Ruby</td>
+	    <td>RubonRails</td>
+	     <td></td>
+        </tr>
 	  <tr>
             <td rowspan=1>Rust</td>
 	    <td></td>
