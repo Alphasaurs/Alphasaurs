@@ -39,10 +39,14 @@
             <td rowspan=20>Language</td>
         </tr>
 	 <tr>
-            <td rowspan=1>Go*</td>
-	    <td></td>
+            <td rowspan=2>Go*</td>
+		 <td></td>
 	     <td>Halfpool->crud rest api</td>
         </tr>
+	 <tr>
+		  <td></td>
+		   <td> Halfcall->pause resume stop</td
+	    </tr>
 	 <tr>
             <td rowspan=2>Java</td>
             <td rowspan=1>Android</td>
@@ -58,7 +62,7 @@
             <td colspan=3>Halfbay->blog api</td>	    
 	 </tr>
 	 <tr>
-	     <td colspan=3>Halfcall->pause resume stop</td>	    
+	     <td colspan=3></td>	    
 	 </tr>
 	 <tr>
 	  <td colspan=3>Halfmoon-> </td> 
