@@ -36,7 +36,7 @@
     </thead>
     <tbody>
 	 <tr>
-            <td rowspan=20>Language</td>
+            <td rowspan=21>Language</td>
         </tr>
 	 <tr>
             <td rowspan=2>Go*</td>
@@ -91,11 +91,16 @@
 	     <td>Fleetland</td>
 	  </tr>
 	  <tr>
-            <td rowspan=1>Ruby</td>
-	    <td>RubonRails</td>
-	     <td></td>
+            <td rowspan=2>Ruby</td>
+	    <td></td>
+	     <td>Dawnrun</td>
         </tr>
-	  <tr>
+	<tr>
+            <td rowspan=1>RubonRails</td>
+	    <td></td>
+	     <td></td>
+        </tr>			   
+	<tr>
             <td rowspan=1>Rust</td>
 	    <td></td>
 	     <td></td>
