@@ -41,11 +41,11 @@
 	 <tr>
             <td rowspan=2>Go*</td>
 		 <td></td>
-	     <td>Halfpool->crud rest api</td>
+	     <td colspan=3>Halfpool->crud rest api</td>
         </tr>
 	 <tr>
 		  <td></td>
-		   <td> Halfcall->pause resume stop</td
+		   <td colspan=3> Halfcall->pause resume stop</td
 	    </tr>
 	 <tr>
             <td rowspan=2>Java</td>
@@ -65,7 +65,7 @@
 	     <td colspan=3></td>	    
 	 </tr>
 	 <tr>
-	  <td colspan=3>Halfmoon-> </td> 
+	  <td colspan=2>Halfmoon-> </td> 
 	 <tr>
          <tr>
 	  <td colspan=3>Halftale->authentication </td> 
@@ -84,21 +84,20 @@
 	  <tr>
             <td rowspan=2>Python</td>
 	    <td>Django</td>
-	     <td></td>
+	     <td colspan=3></td>
         </tr>
 	  <tr>
             <td>Flask</td>
-	     <td>Fleetland</td>
+	     <td colspan=3>Fleetland</td>
 	  </tr>
 	  <tr>
             <td rowspan=2>Ruby</td>
 	    <td></td>
-	     <td>Dawnrun</td>
+	     <td colspan=3>Dawnrun</td>
         </tr>
 	<tr>
             <td rowspan=1>RubonRails</td>
-	    <td></td>
-	     <td></td>
+	    <td colspan=3></td>
         </tr>			   
 	<tr>
             <td rowspan=1>Rust</td>
@@ -123,12 +122,12 @@
         </tr>
 	 <tr>
             <td rowspan=6>Database</td>
-	    <td>Elasticsearch</td>
-	    <td></td>
+	    <td colspan=3>Elasticsearch</td>   
         </tr>
 	 <tr>
               <td>Firebase</td>
 	      <td></td>
+	      <td colspan=3></td>
 	  </tr>
 	  <tr>
               <td>MongoDB*</td>
