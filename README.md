@@ -123,6 +123,7 @@
 	 <tr>
             <td rowspan=6>Database</td>
 	    <td colspan=3>Elasticsearch</td>   
+		 <td></td>
         </tr>
 	 <tr>
               <td>Firebase</td>
